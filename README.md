@@ -2,4 +2,4 @@
 
 Team 1 Members: Aaminah Mohammed, Alex Chang, Jumana Ayoub
 
-Data Source: https://www.kaggle.com/datasets/goyaladi/twitter-bot-detection-dataset?resource=download 
+Data Source: kaggle.com/datasets/danieltreiman/twitter-human-bots-dataset 
