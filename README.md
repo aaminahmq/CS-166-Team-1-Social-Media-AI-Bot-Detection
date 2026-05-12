@@ -1,21 +1,9 @@
 # CS-166-Team-1-Social-Media-AI-Bot-Detection
 
-Team 1 Members: Aaminah Mohammed, Alex Chang, Jumana Ayoub
-
-Data Source: kaggle.com/datasets/danieltreiman/twitter-human-bots-dataset 
-
-# Social Media Bot Detection Using Machine Learning
-
-**CS166 Information Security | Team 1 | Spring 2026**  
-San Jose State University | Instructor: Professor Chao-Li Tarng
-
----
-
 ## Team Members
-
-- Jumana Ayoub
 - Aaminah Mohammed
 - Alex Chang
+- Jumana Ayoub
 
 ---
 
